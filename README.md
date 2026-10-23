@@ -2,7 +2,7 @@
 
 > No-code automation that generates interview questions and answers with Gemini, stores them in Google Sheets, and emails them daily.
 
-<img width="989" height="957" alt="Screenshot 2026-10-22 132833" src="https://github.com/user-attachments/assets/a1399422-060b-4875-94d6-a11152bf2ae0" />
+<img width="989" height="935" alt="Screenshot 2026-10-22 132833" src="https://github.com/user-attachments/assets/c6486e50-fef8-40cd-99e4-7600b43bb3f9" />
 
 ## Problem
 
